@@ -77,3 +77,8 @@ result:
 ### Step 4: configure & compile QMK
 
 *TODO*
+
+
+# Copying
+
+All the creative work and code portions of this project are licensed under the terms of GPL version 3.
